@@ -1,0 +1,6 @@
+Line 1: # This is a comment → Comment
+Line 3: A!,LAX,JFK,2025-12-01 13:00,2025-12-01 16:00,150 → Invalid flight_id
+Line 4: CD34,SFO,LAX,2025/12/01 10:00,2025-12-01 11:00,99.0 → Invalid departure_datetime
+Line 5: EF56,BOS,MIA,2025-11-10 15:00,2025-11-10 14:00,120 → Arrival not after departure
+Line 6: GH78,ORD,DFW,2025-11-20 07:00,2025-11-20 09:00,-10 → Invalid price
+Line 8: IJ90,ATL,LAX,2025-11-21 08:00,2025-11-21 11:00 → Invalid number of fields
